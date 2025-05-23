@@ -24,3 +24,4 @@ C:\Users\User\source\repos\GBDSSCRR\GBDS\GBDS\obj\Debug\GBDS.vbproj.CoreCompileI
 C:\Users\User\source\repos\GBDSSCRR\GBDS\GBDS\obj\Debug\GBDS.exe
 C:\Users\User\source\repos\GBDSSCRR\GBDS\GBDS\obj\Debug\GBDS.xml
 C:\Users\User\source\repos\GBDSSCRR\GBDS\GBDS\obj\Debug\GBDS.pdb
+C:\Users\User\source\repos\GBDSSCRR\GBDS\GBDS\obj\Debug\GBDS.Form3.resources
